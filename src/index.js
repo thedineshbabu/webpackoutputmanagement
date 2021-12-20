@@ -4,7 +4,7 @@ import printMe from "./print.js";
 const component = () => {
   const element = document.createElement("div");
   const btn = document.createElement("button");
-  element.innerHTML = _.join(["Dinesh", "Manoharan"], "-");
+  element.innerHTML = _.join(["Dineshbabu", "Manoharan"], " ");
   element.classList.add("hello");
 
   btn.innerHTML = "Click me and check the console!";
