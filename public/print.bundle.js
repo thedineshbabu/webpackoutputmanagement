@@ -1,0 +1,2 @@
+(()=>{"use strict";print=()=>{console.log("I get called from print.js!")}})();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHJpbnQuYnVuZGxlLmpzIiwibWFwcGluZ3MiOiJtQkFBZUEsTUFBUSxLQUNyQkMsUUFBUUMsSUFBSSxpQyIsInNvdXJjZXMiOlsid2VicGFjazovL3dlYnBhY2tvdXRwdXRtYW5hZ2VtZW50Ly4vc3JjL3ByaW50LmpzIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IHByaW50ID0gKCkgPT4ge1xuICBjb25zb2xlLmxvZyhcIkkgZ2V0IGNhbGxlZCBmcm9tIHByaW50LmpzIVwiKTtcbn07XG4iXSwibmFtZXMiOlsicHJpbnQiLCJjb25zb2xlIiwibG9nIl0sInNvdXJjZVJvb3QiOiIifQ==
